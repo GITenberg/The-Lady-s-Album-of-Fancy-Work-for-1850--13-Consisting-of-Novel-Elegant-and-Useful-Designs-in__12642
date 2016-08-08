@@ -1,0 +1,29 @@
+_repo: The-Lady-s-Album-of-Fancy-Work-for-1850--13-Consisting-of-Novel-Elegant-and-Useful-Designs-in__12642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fancy work -- Handbooks, manuals, etc.'
+- !lcsh 'Needlework -- Patterns'
+- !lcc 'TT'
+- GITenberg
+title: "The Lady's Album of Fancy Work for 1850\r\nConsisting of Novel, Elegant, and\
+  \ Useful Designs in Knitting, Netting, Crochet, Braiding, and Embroidery, with Clear\
+  \ and Explicit Directions for Working the Patterns"
+url: http://www.gutenberg.org/ebooks/12642
