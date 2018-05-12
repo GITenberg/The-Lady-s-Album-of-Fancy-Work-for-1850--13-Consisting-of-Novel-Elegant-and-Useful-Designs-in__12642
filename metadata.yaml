@@ -1,5 +1,8 @@
 _repo: The-Lady-s-Album-of-Fancy-Work-for-1850--13-Consisting-of-Novel-Elegant-and-Useful-Designs-in__12642
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12642#The-Lady-s-Album-of-Fancy-Work-for-1850--13-Consisting-of-Novel-Elegant-and-Useful-Designs-in_
 gutenberg_bookshelf:
 - Crafts
 - Technology
